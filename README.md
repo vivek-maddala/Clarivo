@@ -1,2 +1,9 @@
 # Clarivo
-Clarivo is a career guidance platform designed to help students and professionals discover their strengths, explore career pathways, understand opportunities, and make informed decisions about their future.
+
+Career exploration reflection prototype. Not a validated assessment.
+
+## Run
+Open `index.html` in your browser.
+
+## Status
+A small front-end demonstration only; no backend, authentication, cloud persistence, or AI integration is implemented.
